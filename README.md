@@ -46,6 +46,8 @@ npm start
 ## Screenshots
 ![Homepage](path/to/![homepaeofLaptop.png…]()
 )
+![Register](D:\DownLoad\registerpageofLaptop.png)
+
 
 ## Contributing
 Contributions are welcome! Please fork the repository and submit a pull request.
